@@ -1897,7 +1897,7 @@ class App:
         Antes de salir, guarda los datos en un archivo de texto y elimina todos los datos de la aplicación.
         """
         while True:
-            print("\n================================")
+            print("\n=================================")
             print("BIENVENIDOS AL PROYECTO EURO 2024")
             print("=================================")
 
